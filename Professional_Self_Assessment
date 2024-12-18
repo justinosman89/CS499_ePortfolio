@@ -1,0 +1,53 @@
+Professional Self-Assessment 
+
+The CS499 Capstone Project has been a culmination of my learning, growth, and achievements throughout the Computer Science program. This ePortfolio showcases my technical skills, problem-solving abilities, and dedication to delivering high-quality software solutions. By enhancing my selected artifacts, I was able to demonstrate proficiency in **software design and engineering**, **algorithms and data structures**, **database management**, and **secure coding practices**.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Key Skills Shown
+
+1. Collaboration and Communication:
+   - Throughout the capstone, I applied my ability to communicate technical concepts clearly. This was evident during the creation of my code review video, where I presented the functionality of my projects, identified areas for improvement, and shared the reasoning behind my enhancements.  
+   - I developed this skill further by organizing my ePortfolio in a way that is accessible to both technical and non-technical audiences.
+
+2. Software Design and Engineering:
+   - In the Course Management System artifact, I demonstrated strong software design principles by modularizing file handling logic into a `FileHandler` class. This improved maintainability and scalability while showcasing my understanding of object-oriented programming in C++.
+3. Algorithms and Data Structures:
+   - I optimized data storage and retrieval processes in the Course Management System using efficient data structures like `unordered_map` and `std::set`. This signiicantly improved the performance of operations like searching and managing course prerequisites.
+
+4. Database Management and Optimization:
+   - In the Inventory Management System artifact, I focused on enhancing database functionality:
+     - Optimized SQL queries for better performance.
+     - Implemented parameterized queries to prevent SQL injection and enhance security.
+   - These enhancements demonstrate my ability to design, develop, and secure database-driven applications.
+
+5. Security Mindset:
+   - Adopting a security-first mindset, I ensured that database operations in the Inventory Management System were secure by implementing parameterized queries and improving error logging mechanisms. This minimizes vulnerabilities and adheres to best practices in secure coding.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Reflection
+
+The process of enhancing my artifacts has been transformative. I revisited my earlier work and applied new knowledge to improve functionality, performance, and security. This allowed me to strengthen critical areas, such as modular software design, algorithm optimization, and database management. I also honed my ability to identify and address vulnerabilities, ensuring secure and robust applications.
+
+The capstone experience highlighted the importance of:
+- Continuous improvement and refactoring to produce cleaner, maintainable code.
+- Balancing performance with security when designing solutions.
+- Effectively communicating technical decisions and justifying design trade-offs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Career Goals and Positioning
+
+As I transition into a professional career, I aim to specialize as a Backend Software Developer or Database Engineer. This ePortfolio serves as evidence of my ability to:
+- Design efficient and secure software solutions.
+- Work with complex data structures and algorithms.
+- Manage relational databases while adhering to security best practices.
+
+By showcasing these skills and aligning them with industry standards, I am confident in my ability to contribute to any organization that values performance, security, and scalability.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Conclusion
+
+This capstone project and the creation of my ePortfolio have allowed me to reflect on the progress I’ve made throughout the Computer Science program. The artifacts I enhanced demonstrate my technical abilities, problem-solving mindset, and commitment to delivering professional-quality solutions. I am excited to apply these skills in a real-world setting, where I can continue to grow, collaborate, and make meaningful contributions as a computer science professional.
